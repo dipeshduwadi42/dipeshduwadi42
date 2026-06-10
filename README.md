@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipesh_theog) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dipesh_theog) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dipeshduwadi42@gmail.com) 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.comdipeshduwadi42dipeshduwadi42/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dipeshduwadi42/dipeshduwadi42/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/dipeshduwadi42/dipeshduwadi42/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/dipeshduwadi42/dipeshduwadi42/blob/output/github-contribution-grid-snake.svg" />
 </picture>
